@@ -16,22 +16,22 @@ const FiveBanner = () => {
           <div className="flex flex-row md:flex-col items-center justify-center gap-5">
             <img
               src="/five2.png"
-              className="$20md:w-[312px] w-[180px] md:h-[310px] h-[180px]"
+              className="md:w-[312px] w-[180px] md:h-[310px] h-[180px]"
             />
             <img
               src="/five3.png"
-              className="$20md:w-[312px] w-[180px] md:h-[310px] h-[180px]"
+              className="md:w-[312px] w-[180px] md:h-[310px] h-[180px]"
             />
           </div>
           {/* right 2 banner  */}
           <div className="flex flex-row md:flex-col items-center justify-center gap-5">
             <img
               src="/five4.png"
-              className="$20md:w-[312px] w-[180px] md:h-[310px] h-[180px]"
+              className="md:w-[312px] w-[180px] md:h-[310px] h-[180px]"
             />
             <img
               src="/five4.png"
-              className="$20md:w-[312px] w-[180px] md:h-[310px] h-[180px]"
+              className="md:w-[312px] w-[180px] md:h-[310px] h-[180px]"
             />
           </div>
         </div>
